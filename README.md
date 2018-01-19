@@ -3,10 +3,12 @@ zero config `<zero-md>`
 
 > Share rendered markdown files without upkeep. Fully-encapsulated fork of [`<zero-md>`][zero-md].
 
+Demo _this_ file at <https://knksmith57.github.io/zero-config-zero-md>.
+
 
 ## Install
 ```sh
-$ curl -O https://raw.githubusercontent.com/knksmith57/zero-config-zero-md/master/docs/index.html
+$ curl -O https://raw.githubusercontent.com/knksmith57/zero-config-zero-md/master/index.html
 ```
 
 
