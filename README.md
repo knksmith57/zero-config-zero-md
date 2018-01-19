@@ -6,7 +6,7 @@ zero config `<zero-md>`
 
 ## Install
 ```sh
-$ curl -O https://raw.githubusercontent.com/knksmith57/zero-config-zero-md/master/index.html
+$ curl -O https://raw.githubusercontent.com/knksmith57/zero-config-zero-md/master/docs/index.html
 ```
 
 
